@@ -1,5 +1,7 @@
 // src/Components/Pages/index.js
 import NotFoundPage from "./NotFoundPage";
-import RobinWilliamsIndex from "./RobinWilliams";
+import RobinWilliamsPage from "./RobinWilliamsPage";
+import PBS_VideosPage from "./PBS_VideosPage";
+import WorkCitedPage from "./WorkCitedPage";
 
-export { NotFoundPage, RobinWilliamsIndex };
+export { NotFoundPage, RobinWilliamsPage, PBS_VideosPage, WorkCitedPage };

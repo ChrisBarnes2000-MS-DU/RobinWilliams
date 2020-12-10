@@ -73,57 +73,6 @@ nav {
   flex-wrap: wrap;
 }
 
-/* ------- About ---------- */
-.about-container {
-  height: 90vh;
-  width: 100vw;
-  /* background-image: url('../src/images/landing.gif'); */
-  /* background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover; */
-  /* overflow: none; */
-  /* text-align: center; */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-}
-.about-container h1 {
-  text-align: center;
-}
-
-/* ------- SocailAccounts ---------- */
-.social-accounts-container {
-  height: 90vh;
-  width: 100vw;
-  background-color: #0d4062;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover; 
-  overflow: none;
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-}
-.page-inner {
-  background-color: #F5F6F8;
-  margin: 10vw;
-  padding: 10vw;
-  background-attachment: fixed;
-  background-position: center;
-  background-size: cover;
-  overflow: none;
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
 /* ------- Robin Williams ---------- */
 .robin-williams-container {
   font-size: smaller;

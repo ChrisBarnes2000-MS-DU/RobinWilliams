@@ -6,7 +6,7 @@ import "./styles.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "video-react/dist/video-react.css";
 
-import { NotFoundPage, RobinWilliamsIndex } from "./Pages";
+import { NotFoundPage, RobinWilliamsPage, PBS_VideosPage, WorkCitedPage } from "./Pages";
 
 import { library } from "@fortawesome/fontawesome-svg-core";
 import { fab } from "@fortawesome/free-brands-svg-icons";
@@ -19,10 +19,17 @@ function App() {
   return (
     <Router>
       <div className="site-content">
-        <Switch>
-          <Route exact path={ROUTES.LANDING} component={RobinWilliamsIndex} />
-          <Route path={ROUTES.NOT_FOUND} component={NotFoundPage} />
-        </Switch>
+        <div className="container robin-williams-container">
+          <div className="jumbotron paral paralsec">
+            <h1 className="display-8 text-center mb-3">Robin Williams</h1>
+          </div>
+          <Switch>
+            <Route exact path={ROUTES.HOME} component={RobinWilliamsPage} />
+            <Route exact path={ROUTES.PBS_VIDEOS} component={PBS_VideosPage} />
+            <Route exact path={ROUTES.WORK_CITED} component={WorkCitedPage} />
+            <Route path={ROUTES.NOT_FOUND} component={NotFoundPage} />
+          </Switch>
+        </div>
         <Navigation />
       </div>
     </Router>

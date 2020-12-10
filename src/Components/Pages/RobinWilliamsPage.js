@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import { WORK_CITED } from "../../Routes";
+import { WORK_CITED } from "../Routes";
 // PBS_VIDEOS,
-import DisplayVideo from "../../DisplayVideo";
+import DisplayVideo from "../DisplayVideo";
 
 
 class RobinWilliamsPage extends Component {

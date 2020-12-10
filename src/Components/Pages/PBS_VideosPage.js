@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import DisplayVideo from "../../DisplayVideo";
-import { HOME } from "../../Routes";
+import DisplayVideo from "../DisplayVideo";
+import { HOME } from "../Routes";
 
 
 class PBS_VideosPage extends Component {

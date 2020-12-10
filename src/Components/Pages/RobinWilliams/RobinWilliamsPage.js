@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import { PBS_VIDEOS, WORK_CITED } from "../../Routes";
+import { WORK_CITED } from "../../Routes";
+// PBS_VIDEOS,
 import DisplayVideo from "../../DisplayVideo";
 
 

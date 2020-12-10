@@ -1,10 +1,10 @@
 {
   "name": "robin_williams_site",
-  "homepage": "https://chrisbarnes7404.github.io/RobinWilliams/#/",
+  "homepage": "https://Christopher-MakeSchool.github.io//RobinWilliams/#/",
   "version": "0.1.0",
   "description": "PolyModal Assignment Comparing Twilight Los Angels 1992 Rodney King Riot & Robin Williams Come Inside My Mind.",
   "main": "index.js",
-  "repository": "https://github.com/ChrisBarnes7404/RobinWilliams.git",
+  "repository": "https://github.com/Christopher-MakeSchool/RobinWilliams.git",
   "author": "Christopher Barnes <chris.barnes.2000@me.com>",
   "license": "MIT",
   "private": true,

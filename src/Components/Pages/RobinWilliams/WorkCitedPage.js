@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import { ROBIN_WILLIAMS, PBS_VIDEOS } from "../../Routes";
+import { HOME, PBS_VIDEOS } from "../../Routes";
 
 
 class WorkCitedPage extends Component {
@@ -137,7 +137,7 @@ class WorkCitedPage extends Component {
           <Link to={PBS_VIDEOS}>Agains, Please Watch These Videos</Link>
         </button>
         <button>
-          <Link to={ROBIN_WILLIAMS}>Go Back</Link>
+          <Link to={HOME}>Go Back</Link>
         </button>
       </div>
     );

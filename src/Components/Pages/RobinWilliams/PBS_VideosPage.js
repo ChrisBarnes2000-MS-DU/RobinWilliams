@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import DisplayVideo from "../../DisplayVideo";
-import { ROBIN_WILLIAMS } from "../../Routes";
+import { HOME } from "../../Routes";
 
 
 class PBS_VideosPage extends Component {
@@ -64,7 +64,7 @@ class PBS_VideosPage extends Component {
         />
 
         <button>
-          <Link to={ROBIN_WILLIAMS}>Go Back</Link>
+          <Link to={HOME}>Go Back</Link>
         </button>
       </div>
     );

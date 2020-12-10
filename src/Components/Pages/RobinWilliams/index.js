@@ -13,7 +13,7 @@ const RobinWilliamsIndex = () => (
       <h1 className="display-8 text-center mb-3">Robin Williams</h1>
     </div>
     <Switch>
-      <Route exact path={ROUTES.ROBIN_WILLIAMS} component={RobinWilliamsPage} />
+      <Route exact path={ROUTES.HOME} component={RobinWilliamsPage} />
       <Route exact path={ROUTES.PBS_VIDEOS} component={PBS_VideosPage} />
       <Route exact path={ROUTES.WORK_CITED} component={WorkCitedPage} />
     </Switch>

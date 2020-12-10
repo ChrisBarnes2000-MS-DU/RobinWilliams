@@ -24,39 +24,15 @@ const Navigation = () => (
       </Link>
       <Link
         className="nav-item nav-link"
-        id="nav-account-tab"
+        id="nav-work-cited-tab"
         data-toggle="tab"
         role="tab"
-        aria-controls="nav-account"
+        aria-controls="nav-work-cited"
         aria-selected="false"
-        to={ROUTES.ROBIN_WILLIAMS}
+        to={ROUTES.WORK_CITED}
       >
-        Robin Williams
+        Work Cited
       </Link>
-      <Link
-        className="nav-item nav-link"
-        id="nav-social-accounts-tab"
-        data-toggle="tab"
-        role="tab"
-        aria-controls="nav-social-accounts"
-        aria-selected="false"
-        to={ROUTES.SOCIAL_ACCOUNTS}
-      >
-        Vist My Accounts
-      </Link>
-      <a
-        className="nav-item nav-link"
-        id="nav-ms-portfolio-tab"
-        data-toggle="tab"
-        role="tab"
-        aria-controls="nav-ms-protfolio"
-        aria-selected="false"
-        href="http://make.sc/portfolio/Christopher-Barnes"
-        target="_blank"
-        rel="noreferrer"
-      >
-        MS Protfolio <FontAwesomeIcon icon={["fas", "external-link-alt"]} />
-      </a>
 
       {/* {!!authUser.roles.ADMIN && (
         <Link

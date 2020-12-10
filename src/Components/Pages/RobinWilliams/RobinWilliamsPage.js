@@ -9,6 +9,34 @@ class RobinWilliamsPage extends Component {
     return (
       <div className="add-padding-bottom robin-williams-container">
         <div>
+          {/* 
+          Dear Mr. Williams
+
+          Although you are unable to get this, I felt I should write to you anyway. 
+          I was quite depressed while watching the documentaries covering your Life, as you are not only an idol to myself but several others as well. I chose to rewatch them, as I get very nauseous and I feel severely sick to my stomach thinking about the systemic issues we face today and the inevitable future we are headed towards.
+
+          Although not directly related to the political scene in Collin County, we, along with millions of other Americans,  mourn the loss today, of Hollywood actor Robin Williams. As we take a moment to reflect back on the laughter and the joy he gave to so many of us. . .we are thankful for the smiles he generated across party lines. We are also thankful for the many serious roles he portrayed, which opened our eyes to the many collective problems and issues within our society.
+          
+          WHITE HOUSE STATEMENT FROM PRESIDENT OBAMA. August 11, 2014.
+          “Robin Williams was an airman, a doctor, a genie, a nanny, a president, a professor, a bangarang Peter Pan, and everything in between. But he was one of a kind. He arrived in our lives as an alien — but he ended up touching every element of the human spirit. He made us laugh. He made us cry. He gave his immeasurable talent freely and generously to those who needed it most — from our troops stationed abroad to the marginalized on our own streets.”
+          As we think back on Mr. Williams, and his storied career, let us also think ahead – –  and make an honest effort, to show a  little more kindness and gentility, compassion and social justice to those who need it most.
+          "Robin Williams And The Stigma Of Mental Illness". Pacific Standard, 2020, https://psmag.com/social-justice/much-stigma-mental-illness-harm-robin-williams-88589. Accessed 15 Nov 2020.
+
+          It’s tragic and upsetting the way media or local news portrays that it takes murder, death, loss, pain, suffering, or hate to get things done. In spite of the recent 2020 COVID Pandemic, the social and racial protests/riots, and general systemic issues we face today, your work remains to inspire generation after generation. Though not all the credit you get is solely yours, the teams you worked for and with, belie you: as their leader, idol, friend, and to have been the one to deserve and hold the honor of said credit.
+
+          How they compare or contrast  in teaching about social injustice
+          Twilight Los Angeles
+          one-woman play; Smith gives voice to 40 real-life “characters,” from a Korean grocer to a Hollywood agent and a juror. The New York Times has called Smith “the ultimate impressionist – she does people’s souls.” The film is an account of how Korean, African American, & Mexican families were impacted during the 'riots', as well as how systemic racism has developed or became deep-rooted into our societies and police forces. Smith through all the families and interviewees calls out and advises against ignorance, hate, and violence. They call against the oppression, discrimination, and belittlement of the minorities and new arrivals. 
+          Jumping from person to person without explaining the entire situation in great detail. It lacks a cohesive storytelling element and presents NO facts, statistics, or possible solutions that could have resolved things before, during, and after the situation. It lacks a reasonable explanation of what happened and attempts to make the viewer feel pity, disgust, anger, or depression as they are some of the easier pathos to provoke. Rather than finding a peaceful solution, it presents the violence that happened in the streets. 
+
+          Whereas Robin Williams: Come Inside My Mind by Marina Zenovich, features personal archival material and new interviews with those who loved and knew Williams best, including Billy Crystal, Pam Dawber, David Letterman, Steve Martin, and many more. Robin Williams: Come Inside My Mind takes viewers through the one-of-a-kind actor and comedian's extraordinary life and career, revealing what drove him to give voice to the incredible characters he created in his mind.
+
+          Told largely through Williams' own voice, captured in interviews and audio recordings, and with a wealth of never-before-seen footage, including home movies and film/TV outtakes, the film showcases Williams' boundless energy, lightning wit and knack for creating memorable characters on stage and screen. The documentary delves into the intricacies of a man who needed an audience just as much as audiences needed someone like him.
+
+          Twilight may be worse because of the strong emotions it inflicts and the visceral portrayal of violence and rioting. 
+          But Come Inside My Mind isn’t far off due to their softened tone towards the subjects of mental health and our impacts on others around us.
+
+          */}
           <h4 className="text-center">
             Welcome, <br />
             I'd like to explain why I believe Robin Williams to be an Idol.
@@ -100,22 +128,12 @@ class RobinWilliamsPage extends Component {
           </a>
           <h4>Why I chose them and how they made me feel.</h4>
           <p>
-            {/*
-            An interesting/meaningful part that you could say more about is at the end of that section, where you describe feeling nauseous about the "systemic issues."
-            
-            Focus here on saying more about what those issues are, specifically, and what the "inevitable future" might look like 
-            (briefly describe the issues so the reader can empathize and connect to your point; again, we all feel nauseous about them).
-            
-            Then, add a sentence connecting that part to Robin Williams 
-            (what he offered us as a kind of antidote to all the above, and how it feels to have to fill in the space ourselves without him).
-          */}
             I was quite depressed while watching the documentaries covering Robin Williams Life, as he is not only an
             idol to myself but several others as well. Although he left us far too soon, his work, aspirations, and
             legacy will live on to inspire new generations.
             <br />
             <br />I chose to watch them, as I get very nauseous and I feel severely sick to my stomach thinking about
             the systemic issues we face today and the inevitable future we are headed towards.
-            {/* in hopes to avoid or work around the topics being assigned/portrayed for this polymodal project as */}
           </p>
           <img
             src="https://cdn.powerofpositivity.com/wp-content/uploads/2015/08/11882887_1136351459713621_1768566688_o.jpg"

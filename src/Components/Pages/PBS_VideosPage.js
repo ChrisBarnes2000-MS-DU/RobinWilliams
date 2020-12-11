@@ -62,7 +62,79 @@ class PBS_VideosPage extends Component {
           site_url="https://www.pbs.org/video/robin-williams-1531779159/"
           site_title="PBS NEWSHOUR: Inside Robin Williams' lightning mind and creative soul"
         />
-
+        <DisplayVideo
+          // video_url="https://player.pbs.org/viralplayer/2365320526/"
+          video_url="https://www.pbs.org/video/pioneers-television-robin-williams-remembered/"
+          site_url="https://www.pbs.org/video/pioneers-television-robin-williams-remembered/"
+          site_title="PIONEERS OF TELEVISION: Robin Williams Remembered"
+        />
+        <DisplayVideo
+          // video_url="https://player.pbs.org/viralplayer/2365320526/"
+          video_url="https://www.pbs.org/video/pioneers-television-robin-williams-remembered/"
+          site_url="https://www.pbs.org/video/pioneers-television-robin-williams-remembered/"
+          site_title="PIONEERS OF TELEVISION: Robin Williams Remembered"
+        />
+        <DisplayVideo
+          // video_url="https://player.pbs.org/viralplayer/2365233373/"
+          video_url="https://www.pbs.org/video/pioneers-television-robin-williams-hones-his-craft/"
+          site_url="https://www.pbs.org/video/pioneers-television-robin-williams-hones-his-craft/"
+          site_title="PIONEERS OF TELEVISION: Robin Williams Hones his Craft"
+        />
+        <DisplayVideo
+          // video_url="https://player.pbs.org/viralplayer/2365233384/"
+          video_url="https://www.pbs.org/video/pioneers-television-jonathan-winters-mentors-robin-williams/"
+          site_url="https://www.pbs.org/video/pioneers-television-jonathan-winters-mentors-robin-williams/"
+          site_title="PIONEERS OF TELEVISION: Jonathan Winters 'Mentors' Robin Williams"
+        />
+        <DisplayVideo
+          // video_url="https://player.pbs.org/viralplayer/2365489505/"
+          video_url="https://www.pbs.org/video/blank-blank-robin-williams-masks/"
+          site_url="https://www.pbs.org/video/blank-blank-robin-williams-masks/"
+          site_title="BLANK ON BLANK: Robin Williams on Masks"
+        />
+        <DisplayVideo
+          // video_url="https://player.pbs.org/viralplayer/3031776866/"
+          video_url="https://www.pbs.org/video/robin-1471vu/"
+          site_url="https://www.pbs.org/video/robin-1471vu/"
+          site_title="INSIDE THE COVER: Robin"
+        />
+        <DisplayVideo
+          // video_url="https://player.pbs.org/viralplayer/2365305581/"
+          video_url="https://www.pbs.org/video/chicago-tonight-august-11-2014-remembering-robin-williams/"
+          site_url="https://www.pbs.org/video/chicago-tonight-august-11-2014-remembering-robin-williams/"
+          site_title="CHICAGO TONIGHT: Remembering Robin Williams"
+        />
+        <DisplayVideo
+          // video_url="https://player.pbs.org/viralplayer/2365601348/"
+          video_url="https://www.pbs.org/video/robin-williams-didn-t-know-he-had-this-mysterious-disease-1454024744/"
+          site_url="https://www.pbs.org/video/robin-williams-didn-t-know-he-had-this-mysterious-disease-1454024744/"
+          site_title="PBS NEWSHOUR: Robin Williams didn’t know he had this mysterious disease"
+        />
+        <DisplayVideo
+          // video_url="https://player.pbs.org/viralplayer/2365305584/"
+          video_url="https://www.pbs.org/video/chicago-tonight-august-11-2014-discussing-depression/"
+          site_url="https://www.pbs.org/video/chicago-tonight-august-11-2014-discussing-depression/"
+          site_title="CHICAGO TONIGHT: Discussing Depression"
+        />
+        <DisplayVideo
+          // video_url="https://player.pbs.org/viralplayer/2365308829/"
+          video_url="https://www.pbs.org/video/studio-socal-mental-illness-whats-new/"
+          site_url="https://www.pbs.org/video/studio-socal-mental-illness-whats-new/"
+          site_title="STUDIO SOCAL: Mental Illness, What's New?"
+        />
+        <a
+          href="https://africacheck.org/fbcheck/worst-thing-in-life-quote-not-by-robin-williams-written-for-2009-movie/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="https://www.bucketlistpublications.com/wp-content/uploads/2014/08/f47e31a054ada8d327c8a53626b84faf.jpg"
+            width="800"
+            alt="I Used To Think"
+          />
+          <p>click here for more info</p>
+          <p>Explain about miss information and the issues of interpretation vs intent</p>
+        </a>
         <button>
           <Link to={HOME}>Go Back</Link>
         </button>

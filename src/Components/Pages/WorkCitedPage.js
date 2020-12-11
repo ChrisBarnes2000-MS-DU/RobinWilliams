@@ -8,151 +8,133 @@ class WorkCitedPage extends Component {
     return (
       <div className="add-padding-bottom work-cited-container">
         <div>
-          <h2>Abstract/References</h2>
-          {/* ------Robin Williams----- */}
-          <div className="row">
-            <p id="RB1">
-              "Robin Williams: Come Inside My Mind | Kanopy". Dominican.Kanopy.Com, 2020,
-              <br />
-              <a href="https://dominican.kanopy.com/video/robin-williams-come-inside-my-mind">
-                https://dominican.kanopy.com/video/robin-williams-come-inside-my-mind
-              </a>
-              . Accessed 15 Nov 2020.
-            </p>
-          </div>
-          <div className="row">
-            <p id="RB2">
-              "Robin Williams Remembered | Kanopy". Dominican.Kanopy.Com, 2020,
-              <br />
-              <a href="https://dominican.kanopy.com/video/robin-williams-remembered">
-                https://dominican.kanopy.com/video/robin-williams-remembered
-              </a>
-              . Accessed 15 Nov 2020.
-            </p>
-          </div>
-          <div className="row">
-            <p id="RB3">
-              "Robin Williams And The Stigma Of Mental Illness". Pacific Standard, 2020,
-              <br />
-              <a href="https://psmag.com/social-justice/much-stigma-mental-illness-harm-robin-williams-88589">
-                https://psmag.com/social-justice/much-stigma-mental-illness-harm-robin-williams-88589
-              </a>
-              . Accessed 15 Nov 2020.
-            </p>
-          </div>
-          <div className="row">
-            <p id="RB4">
-              "Rebecca Robbins, STAT. "How Lewy Body Dementia Gripped Robin Williams". Scientific American, 2016,
-              <br />
-              <a href="https://www.scientificamerican.com/article/how-lewy-body-dementia-gripped-robin-williams1/">
-                https://www.scientificamerican.com/article/how-lewy-body-dementia-gripped-robin-williams1/
-              </a>
-              . Accessed 8 Dec 2020.
-            </p>
-          </div>
-          <div className="row">
-            <p id="RB5">
-              "Why We Missed The Signs Of My Mom's Lewy Body Dementia". Next Avenue, 2016,
-              <br />
-              <a href="https://www.nextavenue.org/why-we-missed-the-signs-of-my-moms-lewy-body-dementia/?utm_source=PBS&utm_medium=web&utm_campaign=merlin">
-                https://www.nextavenue.org/why-we-missed-the-signs-of-my-moms-lewy-body-dementia/?utm_source=PBS&utm_medium=web&utm_campaign=merlin
-              </a>
-              . Accessed 8 Dec 2020.
-            </p>
-          </div>
-          <div className="row">
-            <p id="RB6">
-              "PBS Newshour | Robin Williams Didn’T Know He Had This Mysterious Disease | Season 2015". PBS.Org, 2020,
-              <br />
-              <a href="https://www.pbs.org/video/robin-williams-didn-t-know-he-had-this-mysterious-disease-1454024744/">
-                https://www.pbs.org/video/robin-williams-didn-t-know-he-had-this-mysterious-disease-1454024744/
-              </a>
-              . Accessed 7 Dec 2020.
-            </p>
-          </div>
-          {/* -----Twilight: Los Angeles------ */}
-          <div className="row">
-            <p id="TL1">
-              "Twilight: Los Angeles | About The Production | Great Performances | PBS". Great Performances, 2012,
-              <br />
-              <a href="https://www.pbs.org/wnet/gperf/twilight-los-angeles-about-the-production/1329/">
-                https://www.pbs.org/wnet/gperf/twilight-los-angeles-about-the-production/1329/
-              </a>
-              . Accessed 11 Nov 2020.
-            </p>
-          </div>
-          <div className="row">
-            <p id="TL2">
-              "Great Performances | Twilight: Los Angeles | Season 42 | Episode 23". PBS.Org, 2020,
-              <br />
-              <a href="https://www.pbs.org/video/great-performances-twilight-los-angeles-1/">
-                https://www.pbs.org/video/great-performances-twilight-los-angeles-1/
-              </a>
-              . Accessed 11 Nov 2020.
-            </p>
-          </div>
-          {/* <div className="row">
-          <p id="TL3">
-            "Can We All Get Along?" Blacks' Historical And Contemporary (In) Justice With Law Enforcement.".
-            Academia.Edu, 2020,
+          <h1 className="text-center">Abstract/Work Cited</h1>
+          <p>
+            "ABI Community: Social Justice Youth Program". Abicommunity.Org, 2020,
             <br />
-            <a href="https://www.academia.edu/9014385/_Can_We_All_Get_Along_Blacks_Historical_and_Contemporary_In_Justice_with_Law_Enforcement">
-              https://www.academia.edu/9014385/_Can_We_All_Get_Along_Blacks_Historical_and_Contemporary_In_Justice_with_Law_Enforcement
-            </a>
-            . Accessed 20 Nov 2020.
+            https://www.abicommunity.org/programs/youth_program/about_social_justice_youth_program.html.
+            <br />
+            Accessed 11 Nov 2020.
           </p>
-        </div> */}
-          <div className="row"></div>
-          <div className="row"></div>
-          <div className="row"></div>
-          {/* <p>
-          "
-          <br />
-          <a href=""></a>
-        </p>
-        {/* ----------- /}
-        <p>
-          "
-          <br />
-          <a href=""></a>
-        </p>
-        {/* ----------- /}
-        <p>
-          "
-          <br />
-          <a href=""></a>
-        </p>
-        {/* ----------- /}
-        <p>
-          "
-          <br />
-          <a href=""></a>
-        </p>
-        {/* ----------- /}
-        <p>
-          "
-          <br />
-          <a href=""></a>
-        </p>
-        {/* ----------- /}
-        <p>
-          "
-          <br />
-          <a href=""></a>
-        </p>
-        {/* ----------- /}
-        <p>
-          "
-          <br />
-          <a href=""></a>
-        </p> */}
-          {/* ----------- */}
-        <button>
-          <Link to={PBS_VIDEOS}>Agains, Please Watch These Videos</Link>
-        </button>
-        <button>
-          <Link to={HOME}>Go Back</Link>
-        </button>
+          <p>
+            "A Tribute To Robin Williams: Comedian, Actor, And Philanthropist - Collin County Democrats". Collin County
+            Democrats, 2014,
+            <br />
+            https://www.collindemocrats.org/a-tribute-to-robin-williams-comedian-actor-and-philanthropist/.
+            <br />
+            Accessed 15 Nov 2020.
+          </p>
+          <p>
+            "Great Performances | Twilight: Los Angeles | Season 42 | Episode 23". PBS.Org, 2020,
+            <br />
+            https://www.pbs.org/video/great-performances-twilight-los-angeles-1/.
+            <br />
+            Accessed 11 Nov 2020.
+          </p>
+          <p>
+            "How (Not) ToSignal “Stop” | Savage Minds". Savageminds.Org, 2008,
+            <br />
+            https://savageminds.org/2008/09/28/how-not-to-signal-stop/.
+            <br />
+            Accessed 11 Dec 2020.
+          </p>
+          <p>
+            "Los Angeles Riots". HISTORY, 2020,
+            <br />
+            https://www.history.com/topics/1990s/the-los-angeles-riots.
+            <br />
+            Accessed 16 Nov 2020.
+          </p>
+          <p>
+            "Multimodal Projects". Kettering College Writing Center, 2020,
+            <br />
+            https://kcwritingcenter.weebly.com/multimodal-projects.html.
+            <br />
+            Accessed 11 Nov 2020.
+          </p>
+          <p>
+            "PBS Newshour | Robin Williams Didn’T Know He Had This Mysterious Disease | Season 2015". PBS.Org, 2020,
+            <br />
+            "https://www.pbs.org/video/robin-williams-didn-t-know-he-had-this-mysterious-disease-1454024744/".
+            <br />
+            Accessed 7 Dec 2020.
+          </p>
+          <p>
+            Robertson, Ray. "Can We All Get Along?" Blacks' Historical And Contemporary (In) Justice With Law
+            Enforcement.". Academia.Edu, 2020,
+            <br />
+            https://www.academia.edu/9014385/_Can_We_All_Get_Along_Blacks_Historical_and_Contemporary_In_Justice_with_Law_Enforcement.
+            <br />
+            Accessed 20 Nov 2020.
+          </p>
+          <p>
+            "Rebecca Robbins, STAT. "How Lewy Body Dementia Gripped Robin Williams". Scientific American, 2016,
+            <br />
+            "https://www.scientificamerican.com/article/how-lewy-body-dementia-gripped-robin-williams1/".
+            <br />
+            Accessed 8 Dec 2020.
+          </p>
+          <p>
+            "Robin Williams: Come Inside My Mind | Kanopy". Dominican.Kanopy.Com, 2020,
+            <br />
+            https://dominican.kanopy.com/video/robin-williams-come-inside-my-mind”.
+            <br />
+            Accessed 15 Nov 2020.
+          </p>
+          <p>
+            "Robin Williams Remembered | Kanopy". Dominican.Kanopy.Com, 2020,
+            <br />
+            "https://dominican.kanopy.com/video/robin-williams-remembered".
+            <br />
+            Accessed 15 Nov 2020.
+          </p>
+          <p>
+            "Robin Williams And The Stigma Of Mental Illness". Pacific Standard, 2020,
+            <br />
+            https://psmag.com/social-justice/much-stigma-mental-illness-harm-robin-williams-88589.
+            <br />
+            Accessed 15 Nov 2020.
+          </p>
+          <p>
+            "Rodney King". Biography, 2020, <br />
+            https://www.biography.com/crime-figure/rodney-king.
+            <br />
+            Accessed 15 Nov 2020.
+          </p>
+          <p>
+            "Rodney King". En.Wikipedia.Org, 2020,
+            <br />
+            https://en.wikipedia.org/wiki/Rodney_King.
+            <br />
+            Accessed 15 Nov 2020.
+          </p>
+          <p>
+            "Twilight: Los Angeles | About The Production | Great Performances | PBS". Great Performances, 2012,
+            <br />
+            https://www.pbs.org/wnet/gperf/twilight-los-angeles-about-the-production/1329/.
+            <br />
+            Accessed 11 Nov 2020.
+          </p>
+          <p>
+            "What Are Social Justice Issues? | Maryville Online". Maryville Online, 2019,
+            <br />
+            https://online.maryville.edu/blog/what-are-social-justice-issues/.
+            <br />
+            Accessed 16 Nov 2020.
+          </p>
+          <p>
+            "Why We Missed The Signs Of My Mom's Lewy Body Dementia". Next Avenue, 2016,
+            <br />
+            "https://www.nextavenue.org/why-we-missed-the-signs-of-my-moms-lewy-body-dementia/?utm_source=PBS&utm_medium=web&utm_campaign=merlin".
+            <br />
+            Accessed 8 Dec 2020.
+          </p>
+          <button>
+            <Link to={PBS_VIDEOS}>Agains, Please Watch These Videos</Link>
+          </button>
+          <button>
+            <Link to={HOME}>Go Back</Link>
+          </button>
         </div>
       </div>
     );

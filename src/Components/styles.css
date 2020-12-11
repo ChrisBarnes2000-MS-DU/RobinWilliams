@@ -27,6 +27,9 @@ div.container {
 .hidden {
   display: none;
 }
+.card {
+  max-width: 800px;
+}
 /* ------- Navigation -------- */
 nav {
   position: absolute;

@@ -27,6 +27,13 @@ class RobinWilliamsPage extends Component {
                 severely sick to my stomach thinking about the systemic issues we face today and the inevitable future
                 we are headed towards.
               </p>
+              <div className="text-center">
+                <img
+                  src="https://www.movemequotes.com/wp-content/uploads/2015/08/IMG_7468.jpg"
+                  alt="Bad Times Wake You Up"
+                />
+                {/* <p className="legend">Legend </p> */}
+              </div>
               <p className="quote">
                 Although not directly related to the political scene in Collin County, we, along with millions of other
                 Americans, mourn the loss today, of Hollywood actor Robin Williams. As we take a moment to reflect back
@@ -155,7 +162,7 @@ class RobinWilliamsPage extends Component {
               <h4>I will leave off with these quotes from Rodney King:</h4>
               <p className="text-center">
                 “As far as having peace within myself, the one way I can do that is forgiving the people who have done
-                wrong to me. 
+                wrong to me.
                 <br />
                 It causes more stress to build up anger. Peace is more productive.”
                 <br />
@@ -164,6 +171,13 @@ class RobinWilliamsPage extends Component {
                 “People, I just want to say, can't we all get along?"
               </p>
               <h2>Can't we all get along?</h2>
+              <div className="text-center">
+                <img
+                  src="https://render.fineartamerica.com/images/rendered/default/print/6/8/break/images/artworkimages/medium/1/robin-williams-james-rodgers.jpg"
+                  alt="Robin Williams Actor Collage"
+                />
+                {/* <p className="legend">Legend </p> */}
+              </div>
             </div>
           </div>
           <div className="row">

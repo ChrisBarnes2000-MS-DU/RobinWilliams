@@ -6,7 +6,12 @@ body {
   margin: 0;
   /* padding: 0px; */
   overflow-x: hidden;
-  background-color: #ecf3f9 !important;
+  background-color: #087cb8;
+  background-image: url('../Images/background_blue_gradient.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
   /* padding-bottom: 10vh;  */
 }
 ul {
@@ -29,6 +34,7 @@ div.container {
 }
 .card {
   max-width: 700px;
+  margin: auto !important;
 }
 .thumbs {
   padding: 0;
@@ -40,7 +46,7 @@ nav {
   left: 0;
   right: 0;
   width: 100vw;
-  background-color: #f5f6f8;
+  background-color: #217097;
 }
 .nav-item {
   width: calc(100% / 4);
@@ -102,7 +108,8 @@ nav {
   flex-wrap: wrap;
 }
 .work-cited-container p {
-  font-size: x-small;
+  background-color: #f5f6f8;
+  font-size: small;
   padding: 1rem;
 }
 .quote {
@@ -110,4 +117,7 @@ nav {
 }
 .robin-williams-container h1, h2, h3, h4, h5{
   text-align: center;
+}
+.carousel.carousel-slider {
+  margin: auto !important;
 }

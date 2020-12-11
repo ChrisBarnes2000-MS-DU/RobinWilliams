@@ -32,18 +32,17 @@ class RobinWilliamsPage extends Component {
                 Americans, mourn the loss today, of Hollywood actor Robin Williams. As we take a moment to reflect back
                 on the laughter and the joy he gave to so many of us... we are thankful for the smiles he generated
                 across party lines. We are also thankful for the many serious roles he portrayed, which opened our eyes
-                to the many collective problems and issues within our society. 
+                to the many collective problems and issues within our society.
                 <br />
                 <strong>WHITE HOUSE STATEMENT FROM PRESIDENT OBAMA. August 11, 2014.</strong>
                 <br />
-                “Robin Williams was an airman, a doctor, a genie, a nanny, a president, a
-                professor, a bangarang Peter Pan, and everything in between. But he was one of a kind. He arrived in our
-                lives as an alien — but he ended up touching every element of the human spirit. He made us laugh. He
-                made us cry. He gave his immeasurable talent freely and generously to those who needed it most — from
-                our troops stationed abroad to the marginalized on our own streets. As we think back on Mr. Williams,
-                and his storied career, let us also think ahead – and make an honest effort, to show a little more
-                kindness and gentility, compassion and social justice to those who need it most -(Robin Williams And The
-                Stigma Of Mental Illness)."
+                “Robin Williams was an airman, a doctor, a genie, a nanny, a president, a professor, a bangarang Peter
+                Pan, and everything in between. But he was one of a kind. He arrived in our lives as an alien — but he
+                ended up touching every element of the human spirit. He made us laugh. He made us cry. He gave his
+                immeasurable talent freely and generously to those who needed it most — from our troops stationed abroad
+                to the marginalized on our own streets. As we think back on Mr. Williams, and his storied career, let us
+                also think ahead – and make an honest effort, to show a little more kindness and gentility, compassion
+                and social justice to those who need it most -(Robin Williams And The Stigma Of Mental Illness)."
               </p>
               <p>
                 It’s tragic and upsetting the way media or local news portrays that it takes murder, death, loss, pain,
@@ -53,7 +52,7 @@ class RobinWilliamsPage extends Component {
                 believe you: as their leader, idol, friend, and to have been the one to deserve and hold the honor of
                 said credit.
               </p>
-              <h2>How they compare or contrast in teaching about social injustice</h2>
+              <h4>How They Compare or Contrast in Teaching About Social Injustice</h4>
               <p className="quote">
                 Twilight Los Angeles, a one-woman play; Smith gives voice to 40 real-life “characters,” from a Korean
                 grocer to a Hollywood agent and a juror. The New York Times has called Smith “the ultimate impressionist
@@ -143,8 +142,8 @@ class RobinWilliamsPage extends Component {
                   ones for optimizing reciprocity of communication, as the post on the myth of Mars and Venus also
                   shows. Short of a desirable but currently unlikely elimination of all conflict, what sorts of
                   practical steps would in your view improve understanding under these difficult circumstances? Is there
-                  a specific way of understanding ‘common sense’ that gets us further there?
-                  -("How (Not) To Signal “Stop” | Savage Minds")
+                  a specific way of understanding ‘common sense’ that gets us further there? -("How (Not) To Signal
+                  “Stop” | Savage Minds")
                 </p>
               </p>
               <p>
@@ -152,12 +151,19 @@ class RobinWilliamsPage extends Component {
                 until we are united globally rather than state or continental or ethnically. But even then we are still
                 prone to Interpretation vs Intention issues when communicating.
               </p>
-              <h2>To Conclude I will leave off with these quotes from Rodney King:</h2>
-              <p>
+              <h2>To Conclude</h2>
+              <h4>I will leave off with these quotes from Rodney King:</h4>
+              <p className="text-center">
                 “As far as having peace within myself, the one way I can do that is forgiving the people who have done
-                wrong to me. It causes more stress to build up anger. Peace is more productive.” & “People, I just want
-                to say, can't we all get along? Can't we all get along?”
+                wrong to me. 
+                <br />
+                It causes more stress to build up anger. Peace is more productive.”
+                <br />
+                &
+                <br />
+                “People, I just want to say, can't we all get along?"
               </p>
+              <h2>Can't we all get along?</h2>
             </div>
           </div>
           <div className="row">

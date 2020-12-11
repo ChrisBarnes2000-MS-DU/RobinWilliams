@@ -33,6 +33,28 @@ const Navigation = () => (
       >
         Work Cited
       </Link>
+      <Link
+        className="nav-item nav-link"
+        id="nav-work-cited-tab"
+        data-toggle="tab"
+        role="tab"
+        aria-controls="nav-work-cited"
+        aria-selected="false"
+        to={ROUTES.IMG_CAROUSEL}
+      >
+        Images
+      </Link>
+      <Link
+        className="nav-item nav-link"
+        id="nav-pbs-videos-tab"
+        data-toggle="tab"
+        role="tab"
+        aria-controls="nav-pbs-videos"
+        aria-selected="false"
+        to={ROUTES.PBS_VIDEOS}
+      >
+        PBS Videos
+      </Link>
 
       {/* {!!authUser.roles.ADMIN && (
         <Link

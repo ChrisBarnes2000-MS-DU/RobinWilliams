@@ -161,6 +161,16 @@ class WorkCitedPage extends Component {
             <br />
             .Accessed 8 Dec 2020.
           </p>
+
+          <p>
+            <a
+              href="https://docs.google.com/document/d/19wnpDVAQcXhupZQlY6fh8_tWnnxWTJPTS30oMuVs-7M/edit?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Google Doc of this paper
+            </a>
+          </p>
           <button>
             <Link to={PBS_VIDEOS}>Agains, Please Watch These Videos</Link>
           </button>
